@@ -1,0 +1,3 @@
+Primera modificacion;
+git add nombreArchivo -> agrega de manera parcial 
+git commit -m "comentario" -> realiza el commit y deja un comentario que de manera convencional dice los cambios
