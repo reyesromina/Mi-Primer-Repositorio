@@ -1,3 +1,6 @@
 Primera modificacion;
 git add nombreArchivo -> agrega de manera parcial 
 git commit -m "comentario" -> realiza el commit y deja un comentario que de manera convencional dice los cambios
+
+modificacion/agregado: ʚ₍ᐢ. .ᐢ₎ɞ
+git push origin nombre-rama -> envia los cambios al repositorio remoto
